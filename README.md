@@ -46,11 +46,11 @@ O código está comentado e pode ser ajustado conforme o sensor ou display. Veja
 
 ---
 
-## 🖼️ Demonstração (Feira de Protótipos)
+## 🖼️ Demonstração
 
-- Apresente o protótipo em tempo real com uma esponja úmida.
-- Mostre as mudanças de leitura no display à medida que a umidade varia.
-- Destaque a **aplicação prática na engenharia civil**, como um sistema de alerta para infiltrações ou secagem incorreta.
+- Apresentação do protótipo em tempo real com uma esponja úmida. Ou com amostras de concreto em estágios diferentes de umidade.
+- Indicar as mudanças de leitura no display à medida que a umidade varia.
+- Destaque na **aplicação prática na engenharia civil**, como um sistema de alerta para infiltrações ou secagem incorreta.
 
 ---
 
